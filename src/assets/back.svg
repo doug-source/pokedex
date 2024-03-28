@@ -1,0 +1,22 @@
+<svg
+    viewBox="0 0 109.76393 109.76393"
+    version="1.1"
+    xml:space="preserve"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg"
+>
+    <g
+        transform="translate(-28.297469,-20.118789)"
+    >
+        <circle
+            style="fill-opacity:1;stroke:#000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
+            cx="83.179436"
+            cy="75.000755"
+            r="54.749466"
+        />
+        <path
+            style="fill-opacity:1;stroke:#000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
+            d="M 88.501922,33.097539 48.585548,73.014373 a 3.9687727,3.9687727 89.999834 0 0 1.6e-5,5.612676 l 37.957803,37.957801 a 3.9685366,3.9685366 179.99846 0 0 5.612509,-1.5e-4 3.3823181,3.3823181 78.926065 0 0 -0.918734,-4.69413 L 57.973622,78.627049 a 3.9687501,3.9687501 90 0 1 0,-5.61266 L 93.196197,37.791814 a 3.96875,3.96875 90 0 0 0,-5.61266 3.3822711,3.3822711 168.9305 0 0 -4.694275,0.918385 z"
+        />
+    </g>
+</svg>
